@@ -1,3 +1,3 @@
-# dwm-night
+# better-dwm
 
-dwm config with 'vanitygaps' and colorscheme that matches my alacritty config B)
+i finally added gaps for fuck sake
