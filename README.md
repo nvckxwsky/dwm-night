@@ -1,3 +1,3 @@
-# better-dwm
+# dwm-night
 
-i finally added gaps for fuck sake
+dwm with 'vanitygaps' and dark color scheme to match my terminal config
